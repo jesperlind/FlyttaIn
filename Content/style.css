@@ -49,8 +49,8 @@ body, button, input, select, textarea { font-family: sans-serif; color: #222; }
    Links
    ========================================================================== */
 
-a { color: #00e; }
-a:visited { color: #551a8b; }
+a { color: #0a3a4a; }
+a:visited { color: #0a3a4a; }
 a:focus { outline: thin dotted; }
 
 /* Improve readability when focused and hovered in all browsers: people.opera.com/patrickl/experiments/keyboard/test */
@@ -204,7 +204,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 
 #container {
-    width: 960px;
+    width: 940px;
     margin: 0 auto;
     background-color: #fff;
     padding: 0;
@@ -215,7 +215,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 
 header {
-    height: 90px;
+    background: url(top-logo.png) no-repeat;
+    padding: 1px 0 0;
+    height: 211px;
 }
 
 .float-left {
@@ -224,6 +226,27 @@ header {
 
 .float-right {
     float: right;
+}
+
+.site-title {
+    padding: 0;
+}
+
+.site-title a {
+    font-family: 'Leckerli One', cursive;
+    font-size: 4.5em;
+    margin: 0 0 0 30px;
+    color: #0A3A4A;
+    text-shadow: 1px 1px 2px #0A3A4A;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.intro-sum {
+    padding: 10px 30px 0;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    color: #0A3A4A;
 }
 
 /* menu  
@@ -258,6 +281,7 @@ ul#menu {
     display: block;
     font-size: .85em;
     margin-top: 20px;
+    margin-right: 20px;
     text-align: right;
 }
 
