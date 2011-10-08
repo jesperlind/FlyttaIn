@@ -33,5 +33,19 @@ namespace FlyttaIn.Controllers
             //return Json(new { SourceName = sourceName, Title = "Test", Content = "Some content" }, JsonRequestBehavior.AllowGet);
         }
 
+        public JsonResult MyLocal()
+        {
+            var s = new GoteborgServices();
+            var test = s.GetGBGLocationToCoord("Tredje Långgatan 13B");
+
+            //var stops = new Communications().GetStops(latitude, longitude);
+
+            //return Json(stops, JsonRequestBehavior.AllowGet);
+            
+            return Json(new { Title = "Test", Content = "Some content" }, JsonRequestBehavior.AllowGet);
+        }
+
+        
+
     }
 }

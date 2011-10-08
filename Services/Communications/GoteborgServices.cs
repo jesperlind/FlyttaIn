@@ -48,9 +48,9 @@ namespace FlyttaIn.Services.Communications
         }
 
 
-        public IList<JToken> GetGBGLocationToCoord(string url, string api, string location)
+        public IList<JToken> GetGBGLocationToCoord(string location)
         {
-            string newUrl = string.Format(url, api, location);
+            string newUrl = string.Format(VASTTRAFIK_NAME_TO_COORD, VASTTRAFIK_API_KEY, location);
             var res = Helper.CreateHttpGet(newUrl, Helper.ContentType.Json);
             res = res.Replace("processJSON(", "");
             res = res.Replace(");", "");
