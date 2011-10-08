@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using FlyttaIn.Services.Communications;
 
 namespace FlyttaIn.Controllers
 {
@@ -11,6 +12,8 @@ namespace FlyttaIn.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Modify this template to kick-start your ASP.NET MVC application.";
+
+            var result = new GoteborgServices().GetWeather();
 
             return View();
         }
@@ -28,5 +31,6 @@ namespace FlyttaIn.Controllers
 
             return View();
         }
+
     }
 }
