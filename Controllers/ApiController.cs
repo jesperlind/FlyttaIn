@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using FlyttaIn.Services;
+using FlyttaIn.Services.Communications;
 
 namespace FlyttaIn.Controllers
 {
@@ -16,14 +18,19 @@ namespace FlyttaIn.Controllers
             return View();
         }
 
+
         /// <summary>
-        /// http://localhost:5944/api/get/test
+        /// http://localhost:5944/api/communications?latitude=0.2&longitude=1.2
         /// </summary>
-        /// <param name="sourceName"></param>
         /// <returns></returns>
-        public JsonResult Get(string sourceName)
+        public JsonResult Communications(float latitude, float longitude)
         {
-            return Json(new { SourceName = sourceName, Title = "Test", Content = "Some content" }, JsonRequestBehavior.AllowGet);
+
+            var stops = new Communications().GetStops(latitude, longitude);
+
+            return Json(stops, JsonRequestBehavior.AllowGet);
+            
+            //return Json(new { SourceName = sourceName, Title = "Test", Content = "Some content" }, JsonRequestBehavior.AllowGet);
         }
 
     }
