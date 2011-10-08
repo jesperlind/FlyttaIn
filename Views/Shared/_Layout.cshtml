@@ -19,18 +19,29 @@
     <script src="@Url.Content("~/scripts/jquery-ui-1.8.11.js")" type="text/javascript"></script>
 
     <script src="/scripts/modernizr-2.0.6.min.js"></script>
+
+    <script type="text/javascript">
+        $().load(function() {
+            $("#query form").submit(function () {
+                // ANROPA ALLA "TJÄNSTER" /api/get/[NAMN]
+                
+		
+            });
+	});
+    </script>
 </head>
 <body>
 
 <div id="container">
     <header>
-
+        <h1>FlyttaIn.se</h1>
+	<h2>Din flytthj&auml;lp i etern.</h2>
     </header>
     <div id="main" role="main">
         @RenderBody()
     </div>
     <footer>
-
+	(c) 2011 Kreativ Stuga
     </footer>
 </div> <!--! end of #container -->
 
