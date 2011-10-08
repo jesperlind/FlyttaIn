@@ -1,0 +1,1417 @@
+<pools>
+<pool>
+	<name>Landskyrkoallén</name>
+	<lat>57.932806</lat>
+	<lon>12.539392</lon>
+</pool>
+<pool>
+	<name>Viktoriagatan</name>
+	<lat>57.92826624672713</lat>
+	<lon>12.518105506896972</lon>
+</pool>
+<pool>
+	<name>ÅF - Lunnegatan 10</name>
+	<lat>59.054139</lat>
+	<lon>12.704722</lon>
+</pool>
+<pool>
+	<name>Bondegatan</name>
+	<lat>60.4962808455743</lat>
+	<lon>15.4166302568575</lon>
+</pool>
+<pool>
+	<name>Dalen</name>
+	<lat>60.4862718133889</lat>
+	<lon>15.4381040037649</lon>
+</pool>
+<pool>
+	<name>AF - Hälsingtorget, Myntgatan</name>
+	<lat>60.605509</lat>
+	<lon>15.629146</lon>
+</pool>
+<pool>
+	<name>Britsarvet, Kyrkbacksvägen 8</name>
+	<lat>60.61420</lat>
+	<lon>15.63169</lon>
+</pool>
+<pool>
+	<name>Centrum, Bergmästargatan 11, Trumbäckengaraget</name>
+	<lat>60.60650397395791</lat>
+	<lon>15.63605546951294</lon>
+</pool>
+<pool>
+	<name>Kvarnberget, Kvarnbergsvägen 1L, garage 7</name>
+	<lat>60.59545977608504</lat>
+	<lon>15.650625228881836</lon>
+</pool>
+<pool>
+	<name>Batterigatan</name>
+	<lat>60.6637775799579</lat>
+	<lon>17.1440472469922</lon>
+</pool>
+<pool>
+	<name>Hamiltongatan 3</name>
+	<lat>60.6717069</lat>
+	<lon>17.1436134</lon>
+</pool>
+<pool>
+	<name>AF - Gamlestaden, Gamlestadsvägen 4</name>
+	<lat>57.726153</lat>
+	<lon>12.004688</lon>
+</pool>
+<pool>
+	<name>AF - Järntorget garage, Nordhemsgatan</name>
+	<lat>57.700564</lat>
+	<lon>11.950657</lon>
+</pool>
+<pool>
+	<name>AF - Järntorget, Nordhemsgatan</name>
+	<lat>57.700255</lat>
+	<lon>11.949198</lon>
+</pool>
+<pool>
+	<name>AF - Majorna, Karl Johansgatan 27</name>
+	<lat>57.696637</lat>
+	<lon>11.925445</lon>
+</pool>
+<pool>
+	<name>Avenyn City P-hus, Lorensbergsgatan</name>
+	<lat>57.699974</lat>
+	<lon>11.977501</lon>
+</pool>
+<pool>
+	<name>Bö, Prästgårdsängen, Danska vägen</name>
+	<lat>57.7062648</lat>
+	<lon>12.0074212</lon>
+</pool>
+<pool>
+	<name>Chalmers studentbostäder, Emilsborg</name>
+	<lat>57.681354</lat>
+	<lon>11.985419</lon>
+</pool>
+<pool>
+	<name>Chalmers, Gibraltarvallen</name>
+	<lat>57.689882</lat>
+	<lon>11.979754</lon>
+</pool>
+<pool>
+	<name>Citypoolen, P-huset Nordstan</name>
+	<lat>57.709696</lat>
+	<lon>11.967545</lon>
+</pool>
+<pool>
+	<name>Eriksberg, Kvarnpirsgatan</name>
+	<lat>57.701742</lat>
+	<lon>11.915537</lon>
+</pool>
+<pool>
+	<name>Eriksbergsplattån</name>
+	<lat>57.699964</lat>
+	<lon>11.903585</lon>
+</pool>
+<pool>
+	<name>Friggagatan 10</name>
+	<lat>57.710685</lat>
+	<lon>11.986548</lon>
+</pool>
+<pool>
+	<name>Frölunda Torg, Vid bussterminalen</name>
+	<lat>57.652121</lat>
+	<lon>11.907637</lon>
+</pool>
+<pool>
+	<name>Gårda vagnhallarna, Anders Perssonsgatan</name>
+	<lat>57.709197</lat>
+	<lon>11.992983</lon>
+</pool>
+<pool>
+	<name>Gårda, Mellan Åvägen och Fabriksgatan</name>
+	<lat>57.704033</lat>
+	<lon>11.991405</lon>
+</pool>
+<pool>
+	<name>Guldheden, Doktor Liorius gata 13</name>
+	<lat>57.682017</lat>
+	<lon>11.977592</lon>
+</pool>
+<pool>
+	<name>Haga, Husargatan</name>
+	<lat>57.696264</lat>
+	<lon>11.95865</lon>
+</pool>
+<pool>
+	<name>Kålltorp Renströmska, Sanatoriegatan 60</name>
+	<lat>57.714199</lat>
+	<lon>12.032854</lon>
+</pool>
+<pool>
+	<name>Klippan, Banehagsgatan</name>
+	<lat>57.689263</lat>
+	<lon>11.906261</lon>
+</pool>
+<pool>
+	<name>Kortedala, Tusenårsgatan</name>
+	<lat>57.751076</lat>
+	<lon>12.031488</lon>
+</pool>
+<pool>
+	<name>Långedrag Hemköp, Torgny Segerstedtsgatan 90/Redegatan</name>
+	<lat>57.713959</lat>
+	<lon>11.8799389</lon>
+</pool>
+<pool>
+	<name>Länsmansgården, Karlaplatsen</name>
+	<lat>57.734974</lat>
+	<lon>11.89785</lon>
+</pool>
+<pool>
+	<name>Lilla Bommen , under Götaälvbron</name>
+	<lat>57.712997133494</lat>
+	<lon>11.9691654485113</lon>
+</pool>
+<pool>
+	<name>Lindholmen, Götaverksgatan 10 utanför entrén M1</name>
+	<lat>57.709686</lat>
+	<lon>11.944272</lon>
+</pool>
+<pool>
+	<name>Lindholmen, Lindholmspiren, Navet vid Pressbyrån</name>
+	<lat>57.707466</lat>
+	<lon>11.938899</lon>
+</pool>
+<pool>
+	<name>Linné Jungmansgatan 19, Garage</name>
+	<lat>57.694548</lat>
+	<lon>11.946463</lon>
+</pool>
+<pool>
+	<name>Lorensbergsteatern, Vid P-huset, Södra Vägen</name>
+	<lat>57.698609</lat>
+	<lon>11.980092</lon>
+</pool>
+<pool>
+	<name>Lunden, Överåsvallen, St Pauligatan/Vävskedsgatan vid ICA</name>
+	<lat>57.708836</lat>
+	<lon>12.002714</lon>
+</pool>
+<pool>
+	<name>Majnabbe, Stenaterminalen, Elof Lindälvs gata 1</name>
+	<lat>57.693679</lat>
+	<lon>11.914501</lon>
+</pool>
+<pool>
+	<name>Majorna, Bangatan 60</name>
+	<lat>57.69289</lat>
+	<lon>11.93691</lon>
+</pool>
+<pool>
+	<name>Majorna, Vinggatan 6</name>
+	<lat>57.6918216</lat>
+	<lon>11.929515</lon>
+</pool>
+<pool>
+	<name>Masthamnsgatan/värmlandsgatan 2</name>
+	<lat>57.7005164</lat>
+	<lon>11.9461045</lon>
+</pool>
+<pool>
+	<name>Masthuggstorget, Oskarsleden/1:a Långgatan</name>
+	<lat>57.700077</lat>
+	<lon>11.940358</lon>
+</pool>
+<pool>
+	<name>Munkebäck, Torpagatan/Björcksgatan</name>
+	<lat>57.717971</lat>
+	<lon>12.028313</lon>
+</pool>
+<pool>
+	<name>NK-Garaget, P-hus City, Fredsgatan/Ö Larmgatan</name>
+	<lat>57.706156</lat>
+	<lon>11.970196</lon>
+</pool>
+<pool>
+	<name>Norra Ågatan, Vid samskolan</name>
+	<lat>57.711399</lat>
+	<lon>11.991609</lon>
+</pool>
+<pool>
+	<name>Olskroken, Hökegatan</name>
+	<lat>57.716544</lat>
+	<lon>11.99972</lon>
+</pool>
+<pool>
+	<name>Otterhällan, Otterhällegatan 6</name>
+	<lat>57.703935</lat>
+	<lon>11.960629</lon>
+</pool>
+<pool>
+	<name>Packhusplatsen, vid leden mitt över Casinot</name>
+	<lat>57.7074101644638</lat>
+	<lon>11.9601026648954</lon>
+</pool>
+<pool>
+	<name>Parkgatan 2, Vid Hedens busstation</name>
+	<lat>57.702645</lat>
+	<lon>11.974293</lon>
+</pool>
+<pool>
+	<name>Pusterviksplatsen Haga Linné</name>
+	<lat>57.700236</lat>
+	<lon>11.957362</lon>
+</pool>
+<pool>
+	<name>Pusterviksplatsen, Norra Allégatan</name>
+	<lat>57.700185</lat>
+	<lon>11.957926</lon>
+</pool>
+<pool>
+	<name>Pusterviksvägen</name>
+	<lat>57.700236</lat>
+	<lon>11.957362</lon>
+</pool>
+<pool>
+	<name>Redbergsvägen/Lilla Olskrogsgatan</name>
+	<lat>57.7147484</lat>
+	<lon>11.9968254</lon>
+</pool>
+<pool>
+	<name>Skeppsbron, Verkstadsgatan, Mellan P-Arken och hotell Riverton</name>
+	<lat>57.704182</lat>
+	<lon>11.955732</lon>
+</pool>
+<pool>
+	<name>Topasgatan 1</name>
+	<lat>57.646597</lat>
+	<lon>11.912834</lon>
+</pool>
+<pool>
+	<name>Torggatan 3</name>
+	<lat>57.659529</lat>
+	<lon>12.019331</lon>
+</pool>
+<pool>
+	<name>Torslanda, Almhults torg</name>
+	<lat>57.720675</lat>
+	<lon>11.765778</lon>
+</pool>
+<pool>
+	<name>Universitetet Vasaparken, Vasagatan</name>
+	<lat>57.698615</lat>
+	<lon>11.970946</lon>
+</pool>
+<pool>
+	<name>Vasastan, Karl Gustavsgatan 2</name>
+	<lat>57.69975887575027</lat>
+	<lon>11.966418027877807</lon>
+</pool>
+<pool>
+	<name>Volvo Cars, Besökscentrum Karossvägen 2</name>
+	<lat>57.722562</lat>
+	<lon>11.84669</lon>
+</pool>
+<pool>
+	<name>Garaget Radioplan</name>
+	<lat>56.6760609320812</lat>
+	<lon>12.8521685400405</lon>
+</pool>
+<pool>
+	<name>Garaget Snöstorpsvägen 10</name>
+	<lat>56.6726495776733</lat>
+	<lon>12.8693762956066</lon>
+</pool>
+<pool>
+	<name>AF-P-hus Söderpunkten, Nedre Holländaregatan 5</name>
+	<lat>56.039903</lat>
+	<lon>12.701884</lon>
+</pool>
+<pool>
+	<name>Centralstationen H-borg Stad, Helsingborgs stad, </name>
+	<lat>56.040260431578</lat>
+	<lon>12.6945304870605</lon>
+</pool>
+<pool>
+	<name>Centralstationen, Järnvägsgatan 10</name>
+	<lat>56.043286</lat>
+	<lon>12.695941</lon>
+</pool>
+<pool>
+	<name>Hamilton House, Drottninggatan 136 B</name>
+	<lat>56.0550489069891</lat>
+	<lon>12.6866233348846</lon>
+</pool>
+<pool>
+	<name>Malmögatan 37</name>
+	<lat>56.0491002071778</lat>
+	<lon>12.7148535345809</lon>
+</pool>
+<pool>
+	<name>Maria Park- bivråksgatan</name>
+	<lat>56.077649</lat>
+	<lon>12.698886</lon>
+</pool>
+<pool>
+	<name>Norra Vallgatan 48</name>
+	<lat>56.0506043149177</lat>
+	<lon>12.6928471031591</lon>
+</pool>
+<pool>
+	<name>Tågaborg, Tågagatan/N Stenbocksgatan</name>
+	<lat>56.059961</lat>
+	<lon>12.695732</lon>
+</pool>
+<pool>
+	<name>Rosengallerian P-hus</name>
+	<lat>57.792489</lat>
+	<lon>14.274716</lon>
+</pool>
+<pool>
+	<name>Biblioteket P-hus, Östra Torget/Slottsgatan 2 </name>
+	<lat>57.7803399</lat>
+	<lon>14.1811137</lon>
+</pool>
+<pool>
+	<name>Högskola/Campus, Högskoleområdet mellan Munksjöleden/Handels</name>
+	<lat>57.777887</lat>
+	<lon>14.161742</lon>
+</pool>
+<pool>
+	<name>Råslätts Centrum, P-hus under centrumbyggnaden</name>
+	<lat>57.739361</lat>
+	<lon>14.153674</lon>
+</pool>
+<pool>
+	<name>Science Park, Gjuterigatan 9</name>
+	<lat>57.779942</lat>
+	<lon>14.159223</lon>
+</pool>
+<pool>
+	<name>Väster/Smålandsgatan 11-13, Under carporten vid Smålandsgatan</name>
+	<lat>57.782283</lat>
+	<lon>14.163742</lon>
+</pool>
+<pool>
+	<name>AF - Ahlmarks P-hus, Drottninggatan</name>
+	<lat>59.379414</lat>
+	<lon>13.507487</lon>
+</pool>
+<pool>
+	<name>AF, Orrholmsgatan 6</name>
+	<lat>59.37704</lat>
+	<lon>13.503174</lon>
+</pool>
+<pool>
+	<name>Hamntorget, köpmannagatan</name>
+	<lat>59.37704</lat>
+	<lon>13.503174</lon>
+</pool>
+<pool>
+	<name>Herrgårdsgatan 16, Gripen Garaget</name>
+	<lat>59.3824323473712</lat>
+	<lon>13.5031679658634</lon>
+</pool>
+<pool>
+	<name>P-huset Duvslaget</name>
+	<lat>59.377952</lat>
+	<lon>13.50272</lon>
+</pool>
+<pool>
+	<name>Signalhornsgatan</name>
+	<lat>59.40425340816734</lat>
+	<lon>13.572964668273925</lon>
+</pool>
+<pool>
+	<name>Triangeltomten</name>
+	<lat>57.77020350870126</lat>
+	<lon>12.271921634674072</lon>
+</pool>
+<pool>
+	<name>AF - Storgatan 6</name>
+	<lat>58.411233</lat>
+	<lon>15.629039</lon>
+</pool>
+<pool>
+	<name>Gottfridsberg</name>
+	<lat>58.41252</lat>
+	<lon>15.605108</lon>
+</pool>
+<pool>
+	<name>P-Hus Akilles</name>
+	<lat>58.40921</lat>
+	<lon>15.612602</lon>
+</pool>
+<pool>
+	<name>T1 Tomaskyrkan, Drabantgatan 41</name>
+	<lat>58.4024312104569</lat>
+	<lon>15.609592795372</lon>
+</pool>
+<pool>
+	<name>AF - P-hus Karpen, Sandviksgatan 63</name>
+	<lat>65.582687</lat>
+	<lon>22.155597</lon>
+</pool>
+<pool>
+	<name>AF - Stora Södergatan, Stora Södergatan 49, Lund</name>
+	<lat>55.6983360645407</lat>
+	<lon>13.1916363537312</lon>
+</pool>
+<pool>
+	<name>Af, Gastelyckan</name>
+	<lat>55.691633</lat>
+	<lon>13.212665</lon>
+</pool>
+<pool>
+	<name>Ideon Agora, Scheelevägen 15E, Lund</name>
+	<lat>55.7120540776109</lat>
+	<lon>13.2158982753754</lon>
+</pool>
+<pool>
+	<name> Persborgs tågstation, Uddeholmsgatan 36</name>
+	<lat>55.5821713642589</lat>
+	<lon>13.0288034677505</lon>
+</pool>
+<pool>
+	<name>AF - Triangeln, St Johannesgatan</name>
+	<lat>55.595444</lat>
+	<lon>13.002169</lon>
+</pool>
+<pool>
+	<name>AF - Triangeln, St Johannesgatan</name>
+	<lat>55.595444</lat>
+	<lon>13.002169</lon>
+</pool>
+<pool>
+	<name>Augustenborgstorget, Norra grängesbergsgatan 33a</name>
+	<lat>55.5781873592093</lat>
+	<lon>13.0245432057313</lon>
+</pool>
+<pool>
+	<name>Banérsgatan, Aq-va-kulparkeringen</name>
+	<lat>55.598978</lat>
+	<lon>12.994015</lon>
+</pool>
+<pool>
+	<name>Folkets Park, Helsingborgsgatan 20</name>
+	<lat>55.594434</lat>
+	<lon>13.010385</lon>
+</pool>
+<pool>
+	<name>Gamla hovrätten, vid gamla stan</name>
+	<lat>55.6056388364506</lat>
+	<lon>12.9907321929932</lon>
+</pool>
+<pool>
+	<name>Hasselgatan 27</name>
+	<lat>55.5867702858179</lat>
+	<lon>13.0147338564287</lon>
+</pool>
+<pool>
+	<name>Malmö Högskolan, P-hus Trollhättan</name>
+	<lat>55.610758</lat>
+	<lon>12.993978</lon>
+</pool>
+<pool>
+	<name>MKB, Rönnblomsgatan 11</name>
+	<lat>55.602536</lat>
+	<lon>13.028755</lon>
+</pool>
+<pool>
+	<name>Nya konsthögskolan, Föreningsgatan 42</name>
+	<lat>55.6004506479195</lat>
+	<lon>13.0141532421112</lon>
+</pool>
+<pool>
+	<name>P-hus Anna, Kaptensgatan 1</name>
+	<lat>55.601081</lat>
+	<lon>13.004744</lon>
+</pool>
+<pool>
+	<name>P-hus Petri, Kattsundsgatan/Rundelsgatan</name>
+	<lat>55.606499</lat>
+	<lon>13.005313</lon>
+</pool>
+<pool>
+	<name>P-huset Trollhättan, Anckargripsgatan 4</name>
+	<lat>55.610758</lat>
+	<lon>12.993978</lon>
+</pool>
+<pool>
+	<name>Rörsjöparken, Exercisgatan/Drottninggatan</name>
+	<lat>55.6043418536485</lat>
+	<lon>13.015730381012</lon>
+</pool>
+<pool>
+	<name>Slagthuset, Jörgen Kocksgatan</name>
+	<lat>55.61185648541675</lat>
+	<lon>13.002448081970214</lon>
+</pool>
+<pool>
+	<name>Södervärn, Hasselgatan 27</name>
+	<lat>55.5866161658497</lat>
+	<lon>13.0136919021606</lon>
+</pool>
+<pool>
+	<name>Umas P-hus, Södra Förstadsgatan</name>
+	<lat>55.5931393</lat>
+	<lon>13.0051778</lon>
+</pool>
+<pool>
+	<name>Västra Hamnen, Malmö mässan, Propellergatan/Rodergatan</name>
+	<lat>55.610693</lat>
+	<lon>12.976999</lon>
+</pool>
+<pool>
+	<name>Västra Hamnen, P-hus Dockan, Hallenborgs gata</name>
+	<lat>55.6033306</lat>
+	<lon>13.0013029</lon>
+</pool>
+<pool>
+	<name>Västra Rönneholmsvägen</name>
+	<lat>55.5950506071159</lat>
+	<lon>12.9780915671467</lon>
+</pool>
+<pool>
+	<name>(Väståtorg)</name>
+	<lat>59.270475</lat>
+	<lon>15.20216</lon>
+</pool>
+<pool>
+	<name>(Västra bangatan)</name>
+	<lat>59.275074</lat>
+	<lon>15.207868</lon>
+</pool>
+<pool>
+	<name>Änggatan</name>
+	<lat>59.2681533008581</lat>
+	<lon>15.205973950096</lon>
+</pool>
+<pool>
+	<name>Oskarsparken</name>
+	<lat>59.270475</lat>
+	<lon>15.21776</lon>
+</pool>
+<pool>
+	<name>Slottsparken, Kansligatan</name>
+	<lat>59.27328738816178</lat>
+	<lon>15.215871334075927</lon>
+</pool>
+<pool>
+	<name>Södra station, Svartå bangata</name>
+	<lat>59.2704</lat>
+	<lon>15.2023</lon>
+</pool>
+<pool>
+	<name>AF - Stadsdel norr, Kaserngatan 17</name>
+	<lat>63.183343</lat>
+	<lon>14.64072</lon>
+</pool>
+<pool>
+	<name>AF - Storgatan 46</name>
+	<lat>63.175854</lat>
+	<lon>14.635077</lon>
+</pool>
+<pool>
+	<name>Shell-macken vid Färjemansleden</name>
+	<lat>63.1803493485103</lat>
+	<lon>14.6377697450036</lon>
+</pool>
+<pool>
+	<name>Hyttgatan 37, Sala</name>
+	<lat>59.9169150946009</lat>
+	<lon>16.6075951426188</lon>
+</pool>
+<pool>
+	<name>Kungsgatan 31, Sala</name>
+	<lat>59.9203675952748</lat>
+	<lon>16.6140254058954</lon>
+</pool>
+<pool>
+	<name>Alvik strand</name>
+	<lat>59.328954</lat>
+	<lon>17.984941</lon>
+</pool>
+<pool>
+	<name>Centralstationen, Continentalgaraget, Vasagatan</name>
+	<lat>59.331829</lat>
+	<lon>18.058109</lon>
+</pool>
+<pool>
+	<name>Fridhemsplan, St Göransgatan 66</name>
+	<lat>59.333189</lat>
+	<lon>18.032114</lon>
+</pool>
+<pool>
+	<name>Gjörwellsgatan 28</name>
+	<lat>59.32694</lat>
+	<lon>18.01453</lon>
+</pool>
+<pool>
+	<name>Gullmarsplan, Simlångsvägen 46 (Årsta)</name>
+	<lat>59.2996</lat>
+	<lon>18.07849</lon>
+</pool>
+<pool>
+	<name>Hammarby Sjöstad, Fryshuset, Mårtensdalsgatan</name>
+	<lat>59.30086</lat>
+	<lon>18.08801</lon>
+</pool>
+<pool>
+	<name>Hammarby Sjöstad, Heliosgatan</name>
+	<lat>59.302685</lat>
+	<lon>18.094295</lon>
+</pool>
+<pool>
+	<name>Hammarby Sjöstad, Henriksdalshamnen</name>
+	<lat>59.308085</lat>
+	<lon>18.106863</lon>
+</pool>
+<pool>
+	<name>Hammarby Sjöstad, Sickla Udde, Kanalvägen/Båtbyggargatan</name>
+	<lat>59.306499</lat>
+	<lon>18.112528</lon>
+</pool>
+<pool>
+	<name>Hötorgsgaraget</name>
+	<lat>59.333876</lat>
+	<lon>18.632632</lon>
+</pool>
+<pool>
+	<name>Husby, Trondheimsgatan 28</name>
+	<lat>59.409729</lat>
+	<lon>17.922114</lon>
+</pool>
+<pool>
+	<name>Kista Entre</name>
+	<lat>59.400556</lat>
+	<lon>17.949879</lon>
+</pool>
+<pool>
+	<name>Kungsholmen, Tekniska nämndhuset, Pipersgatan 41</name>
+	<lat>59.333207</lat>
+	<lon>18.046878</lon>
+</pool>
+<pool>
+	<name>Liljeholmstorget</name>
+	<lat>18.0222</lat>
+	<lon>18.0222</lon>
+</pool>
+<pool>
+	<name>Lilla Essingen, Primusgatan 20</name>
+	<lat>59.323523</lat>
+	<lon>18.002665</lon>
+</pool>
+<pool>
+	<name>Marievik, Årstaängsvägen 9</name>
+	<lat>59.312194</lat>
+	<lon>18.031024</lon>
+</pool>
+<pool>
+	<name>Medborgarplatsen, P-garage, Noe Arksfaret 1-3</name>
+	<lat>59.31517</lat>
+	<lon>18.072145</lon>
+</pool>
+<pool>
+	<name>Odenplan, Odengaraget, Gyldéngatan 8</name>
+	<lat>59.342401</lat>
+	<lon>18.052874</lon>
+</pool>
+<pool>
+	<name>Östermalm Garnisionen, Linnégatan 87-89</name>
+	<lat>59.334142</lat>
+	<lon>18.097208</lon>
+</pool>
+<pool>
+	<name>Sickla Företagscentrum, Sickla industriväg 5, Nacka</name>
+	<lat>59.306162</lat>
+	<lon>18.122506</lon>
+</pool>
+<pool>
+	<name>Sickla Kanalgata 34</name>
+	<lat>59.304553</lat>
+	<lon>18.105294</lon>
+</pool>
+<pool>
+	<name>Simlångsvägen 46</name>
+	<lat>59.2996</lat>
+	<lon>18.07849</lon>
+</pool>
+<pool>
+	<name>Slussen, Stadsgården 14-16</name>
+	<lat>59.319408</lat>
+	<lon>18.074934</lon>
+</pool>
+<pool>
+	<name>St Eriksplan, Torsgatan 31</name>
+	<lat>59.339216</lat>
+	<lon>18.039472</lon>
+</pool>
+<pool>
+	<name>Sveavägen 155</name>
+	<lat>59.349963</lat>
+	<lon>18.0472</lon>
+</pool>
+<pool>
+	<name>Tantolunden, Ringvägen</name>
+	<lat>59.31348384309691</lat>
+	<lon>18.052339553833008</lon>
+</pool>
+<pool>
+	<name>Telefonplan Hägersten, Dialoggatan 14</name>
+	<lat>59.298642</lat>
+	<lon>17.991797</lon>
+</pool>
+<pool>
+	<name>Centralt i Sundsvall</name>
+	<lat>62.3961880309951</lat>
+	<lon>17.3024456431139</lon>
+</pool>
+<pool>
+	<name>landsvägsallén 6</name>
+	<lat>62.386971</lat>
+	<lon>17.316915</lon>
+</pool>
+<pool>
+	<name>Skobes bil, Falkgatan</name>
+	<lat>58.036394</lat>
+	<lon>14.980352</lon>
+</pool>
+<pool>
+	<name>Ålidhem</name>
+	<lat>63.8115810910926</lat>
+	<lon>20.3142843348308</lon>
+</pool>
+<pool>
+	<name>Korsgatan</name>
+	<lat>63.8311785204736</lat>
+	<lon>20.2670119306546</lon>
+</pool>
+<pool>
+	<name>Kvartsvägen 1</name>
+	<lat>63.7986961815063</lat>
+	<lon>20.315147638320923</lon>
+</pool>
+<pool>
+	<name>P-hus Nanna, Skolgatan 65</name>
+	<lat>63.826385</lat>
+	<lon>20.268198</lon>
+</pool>
+<pool>
+	<name>Stadshuset, framsidan</name>
+	<lat>63.829314</lat>
+	<lon>20.253725</lon>
+</pool>
+<pool>
+	<name>Umeå Universitet, Universitetsvägen 4</name>
+	<lat>63.821056</lat>
+	<lon>20.300691</lon>
+</pool>
+<pool>
+	<name>Umestan</name>
+	<lat>63.833535</lat>
+	<lon>20.262823</lon>
+</pool>
+<pool>
+	<name>Birkagatan</name>
+	<lat>59.8653213415712</lat>
+	<lon>17.6156291826924</lon>
+</pool>
+<pool>
+	<name>Dragarbrunnsgatan 50</name>
+	<lat>59.8581696</lat>
+	<lon>17.6425627</lon>
+</pool>
+<pool>
+	<name>Fålhagen</name>
+	<lat>59.8836209795241</lat>
+	<lon>17.6574585380954</lon>
+</pool>
+<pool>
+	<name>Täljstensvägen</name>
+	<lat>59.8565815460476</lat>
+	<lon>17.6152794632545</lon>
+</pool>
+<pool>
+	<name>Upplandsstiftelsen, Kungsgärdet</name>
+	<lat>59.8678617307766</lat>
+	<lon>17.6136961044538</lon>
+</pool>
+<pool>
+	<name>Bokgatan 1</name>
+	<lat>58.36314968381266</lat>
+	<lon>12.347860336303711</lon>
+</pool>
+<pool>
+	<name>Östergatan 37</name>
+	<lat>58.38204222405345</lat>
+	<lon>12.330994606018066</lon>
+</pool>
+<pool>
+	<name>Sekundantvägen 6</name>
+	<lat>58.377362227557064</lat>
+	<lon>12.289173603057861</lon>
+</pool>
+<pool>
+	<name>Bostads AB Mimer, Klippans parkering, Norra Källgatan</name>
+	<lat>59.6101038</lat>
+	<lon>16.5392353</lon>
+</pool>
+<pool>
+	<name>AF - Lågan, Fagrabäcksvägen vid brandstationen</name>
+	<lat>56.881429</lat>
+	<lon>14.813105</lon>
+</pool>
+<pool>
+	<name>AF - Norrgatan</name>
+	<lat>56.879163</lat>
+	<lon>14.814119</lon>
+</pool>
+<pool>
+	<name>Videum Campus, Teleborg, PG Vejdes Väg 15</name>
+	<lat>56.854482</lat>
+	<lon>14.826083</lon>
+</pool>
+<pool>
+	<name>Nacka Stadshus</name>
+	<lat>59.3090216250557</lat>
+	<lon>18.1595898845751</lon>
+</pool>
+<pool>
+	<name>Nacka stadshus, Granitvägen 15</name>
+	<lat>59.309158</lat>
+	<lon>18.161044</lon>
+</pool>
+<pool>
+	<name>Drakenbergsgatan</name>
+	<lat>59.314962158179725</lat>
+	<lon>18.038413524627685</lon>
+</pool>
+<pool>
+	<name>Hammarby Fabriksväg</name>
+	<lat>59.301156806591</lat>
+	<lon>18.1001005283401</lon>
+</pool>
+<pool>
+	<name>Hammarby sjöstad - Aktergatan</name>
+	<lat>59.3021698673093</lat>
+	<lon>18.10418128967285</lon>
+</pool>
+<pool>
+	<name>Hammarby sjöstad - Lumagatan</name>
+	<lat>59.304656417002846</lat>
+	<lon>18.09394598007202</lon>
+</pool>
+<pool>
+	<name>Hammarby sjöstad - Midskeppsgatan</name>
+	<lat>59.30168787188803</lat>
+	<lon>18.10524344444275</lon>
+</pool>
+<pool>
+	<name>Hammarby sjöstad - Rorgängargatan</name>
+	<lat>59.30651847174806</lat>
+	<lon>18.1095027923584</lon>
+</pool>
+<pool>
+	<name>Hammarby sjöstad - Textilvägen</name>
+	<lat>59.30169882640525</lat>
+	<lon>18.08995485305786</lon>
+</pool>
+<pool>
+	<name>Hammarby sjöstad, Heliosgatan</name>
+	<lat>59.30220273038479</lat>
+	<lon>18.09426784515381</lon>
+</pool>
+<pool>
+	<name>Hammarby sjöstad, Kölnagatan</name>
+	<lat>59.3047367733079</lat>
+	<lon>18.0982343655238</lon>
+</pool>
+<pool>
+	<name>Hammarby sjöstad, Sickla Kanalgata 40</name>
+	<lat>59.3042465802816</lat>
+	<lon>18.106173857963</lon>
+</pool>
+<pool>
+	<name>Heleneborgsgatan 2</name>
+	<lat>59.3208453427734</lat>
+	<lon>18.0487908426769</lon>
+</pool>
+<pool>
+	<name>Heliosgatan</name>
+	<lat>59.3025520708649</lat>
+	<lon>18.0942944634414</lon>
+</pool>
+<pool>
+	<name>Medborgarplatsen, Blekingegatan</name>
+	<lat>59.3104037277115</lat>
+	<lon>18.0746063677264</lon>
+</pool>
+<pool>
+	<name>Reimersholme</name>
+	<lat>59.31777625443006</lat>
+	<lon>18.023672103881836</lon>
+</pool>
+<pool>
+	<name>Rosenlunds Sjukhus, Tideliusgatan</name>
+	<lat>59.311234557633</lat>
+	<lon>18.0629641338304</lon>
+</pool>
+<pool>
+	<name>Södermalm - Magnus Ladulåsgatan 44</name>
+	<lat>59.3127164860132</lat>
+	<lon>18.0665753014182</lon>
+</pool>
+<pool>
+	<name>Södermalm, Helgalunden, Grindsgatan</name>
+	<lat>59.3090420341134</lat>
+	<lon>18.0697736881822</lon>
+</pool>
+<pool>
+	<name>Södermalm, Medborgarplatsen</name>
+	<lat>59.3151067418155</lat>
+	<lon>18.0716524735295</lon>
+</pool>
+<pool>
+	<name>Tantolunden - Ringvägen 35</name>
+	<lat>59.3134763986382</lat>
+	<lon>18.0532763167393</lon>
+</pool>
+<pool>
+	<name>Bagartorpsringen</name>
+	<lat>59.378425506975</lat>
+	<lon>18.000659377734</lon>
+</pool>
+<pool>
+	<name>Bergshamra, Rådjursstigen</name>
+	<lat>59.3806175375898</lat>
+	<lon>18.0365985200273</lon>
+</pool>
+<pool>
+	<name>Esplanaden 3</name>
+	<lat>59.36223</lat>
+	<lon>17.96452</lon>
+</pool>
+<pool>
+	<name>Haga Norra, Frösundaleden 4</name>
+	<lat>59.364634</lat>
+	<lon>18.020142</lon>
+</pool>
+<pool>
+	<name>Hallonbergen centrum, Lötsjövägen</name>
+	<lat>59.3752375</lat>
+	<lon>17.9676627</lon>
+</pool>
+<pool>
+	<name>Ringleken 4, ÖR</name>
+	<lat>59.37366</lat>
+	<lon>17.97805</lon>
+</pool>
+<pool>
+	<name>Rissne Centrum</name>
+	<lat>59.3741387063034</lat>
+	<lon>17.9386207494593</lon>
+</pool>
+<pool>
+	<name>Rissne, Kavallerivägen 4</name>
+	<lat>59.3729095</lat>
+	<lon>17.9392158</lon>
+</pool>
+<pool>
+	<name>Solna Centrum, Hannebergsgatan </name>
+	<lat>59.3569365266076</lat>
+	<lon>18.0038971527145</lon>
+</pool>
+<pool>
+	<name>Sundbybergs Centrum</name>
+	<lat>59.3661938752488</lat>
+	<lon>17.9690307052293</lon>
+</pool>
+<pool>
+	<name>Gubbängen, Knektvägen</name>
+	<lat>59.2623922312681</lat>
+	<lon>18.0810418636141</lon>
+</pool>
+<pool>
+	<name>Gullmarsplan</name>
+	<lat>59.2980827187363</lat>
+	<lon>18.0802995899542</lon>
+</pool>
+<pool>
+	<name>Hägerstenshamnen</name>
+	<lat>59.3080335362166</lat>
+	<lon>17.986234182769</lon>
+</pool>
+<pool>
+	<name>Örnbacken</name>
+	<lat>59.3097078951641</lat>
+	<lon>17.9902754224957</lon>
+</pool>
+<pool>
+	<name>Skarpnäck, Gondolgatan/Pilotgatan</name>
+	<lat>59.2671954970095</lat>
+	<lon>18.1364249462759</lon>
+</pool>
+<pool>
+	<name>Tumba, Munkhättevägen 45</name>
+	<lat>59.201272</lat>
+	<lon>17.833893</lon>
+</pool>
+<pool>
+	<name>Hässelby, Astrakangatan</name>
+	<lat>59.3673221171514</lat>
+	<lon>17.844357418181</lon>
+</pool>
+<pool>
+	<name>City, Continentalgaraget</name>
+	<lat>59.331918974226</lat>
+	<lon>18.0591164709467</lon>
+</pool>
+<pool>
+	<name>Fridhemsplan, Arbetargatan</name>
+	<lat>59.3346751939923</lat>
+	<lon>18.0282951167257</lon>
+</pool>
+<pool>
+	<name>Fyrverkarbacken</name>
+	<lat>59.3261324751694</lat>
+	<lon>18.0184419825322</lon>
+</pool>
+<pool>
+	<name>Gärdet, Värtavägen</name>
+	<lat>59.3463935605713</lat>
+	<lon>18.1013760506034</lon>
+</pool>
+<pool>
+	<name>Getingen Norrtull</name>
+	<lat>59.348984</lat>
+	<lon>18.04668</lon>
+</pool>
+<pool>
+	<name>Gustaf Vasa kyrka</name>
+	<lat>59.3427561893949</lat>
+	<lon>18.0482666852775</lon>
+</pool>
+<pool>
+	<name>Kungsholmen - Norrmälarstrand</name>
+	<lat>59.32653459614145</lat>
+	<lon>18.044142723083496</lon>
+</pool>
+<pool>
+	<name>Kungsholmen, Fridhemsplan</name>
+	<lat>59.3332614127226</lat>
+	<lon>18.0322098898907</lon>
+</pool>
+<pool>
+	<name>Kungsholmen, Norr Mälarstrand 36</name>
+	<lat>59.3268188247734</lat>
+	<lon>18.0413650450044</lon>
+</pool>
+<pool>
+	<name>Kungsholmen, Norr Mälarstrand 52</name>
+	<lat>59.3273776954899</lat>
+	<lon>18.0380981996829</lon>
+</pool>
+<pool>
+	<name>Kungsholmen, Norr Mälarstrand 72</name>
+	<lat>59.3285543837867</lat>
+	<lon>18.0317789255137</lon>
+</pool>
+<pool>
+	<name>Kungsholmen, P O Hallmans gata</name>
+	<lat>59.3349488807904</lat>
+	<lon>18.0401240620886</lon>
+</pool>
+<pool>
+	<name>Kungsholmen, Rådhusgaraget</name>
+	<lat>59.3313645952311</lat>
+	<lon>18.0422963645069</lon>
+</pool>
+<pool>
+	<name>Östermalm, Garnisonen</name>
+	<lat>59.3341061287702</lat>
+	<lon>18.0974535632118</lon>
+</pool>
+<pool>
+	<name>Stadshuset</name>
+	<lat>59.326416575041</lat>
+	<lon>18.0543065088911</lon>
+</pool>
+<pool>
+	<name>Vasastan, Odenplan</name>
+	<lat>59.3429356947008</lat>
+	<lon>18.0493157527587</lon>
+</pool>
+<pool>
+	<name>Vasastan, S:t Eriksplan P-hus</name>
+	<lat>59.3386074351538</lat>
+	<lon>18.039379996096</lon>
+</pool>
+<pool>
+	<name>Angered Centrum</name>
+	<lat>57.7975405929381</lat>
+	<lon>12.0527770615004</lon>
+</pool>
+<pool>
+	<name>Hammarkullen</name>
+	<lat>57.7792903739569</lat>
+	<lon>12.0338124388315</lon>
+</pool>
+<pool>
+	<name>Lövgärdets villastad</name>
+	<lat>57.8131411567609</lat>
+	<lon>12.0367062374115</lon>
+</pool>
+<pool>
+	<name>Rannebergen</name>
+	<lat>57.8039037598725</lat>
+	<lon>12.0698086000674</lon>
+</pool>
+<pool>
+	<name>Arvid Lindmansgatan</name>
+	<lat>57.730496287505</lat>
+	<lon>11.9217784143781</lon>
+</pool>
+<pool>
+	<name>Birkagatan</name>
+	<lat>57.7098149273438</lat>
+	<lon>12.0222276717352</lon>
+</pool>
+<pool>
+	<name>Guldhedsgården</name>
+	<lat>57.6905565213152</lat>
+	<lon>11.9665398961113</lon>
+</pool>
+<pool>
+	<name>Husargatan</name>
+	<lat>57.698678812551</lat>
+	<lon>11.9522836102063</lon>
+</pool>
+<pool>
+	<name>Kohagsgatan</name>
+	<lat>57.7164806596875</lat>
+	<lon>11.914346975538</lon>
+</pool>
+<pool>
+	<name>Konstepidemin</name>
+	<lat>57.69090888317984</lat>
+	<lon>11.958703994750976</lon>
+</pool>
+<pool>
+	<name>Krabbeliderna</name>
+	<lat>57.7314814875713</lat>
+	<lon>11.9099783505792</lon>
+</pool>
+<pool>
+	<name>Landalagången</name>
+	<lat>57.6915025147687</lat>
+	<lon>11.9728340746815</lon>
+</pool>
+<pool>
+	<name>Masthuggsgaraget, Fjällgatan</name>
+	<lat>57.6966520823528</lat>
+	<lon>11.9421255561829</lon>
+</pool>
+<pool>
+	<name>Munkebäcksgatan</name>
+	<lat>57.7143359420001</lat>
+	<lon>12.0249460510069</lon>
+</pool>
+<pool>
+	<name>Örngatan</name>
+	<lat>57.7168642697658</lat>
+	<lon>12.0043606454296</lon>
+</pool>
+<pool>
+	<name>Pilgatan</name>
+	<lat>57.6970828146607</lat>
+	<lon>11.9588991164004</lon>
+</pool>
+<pool>
+	<name>Skånegatan</name>
+	<lat>57.7019154123352</lat>
+	<lon>11.9854817796171</lon>
+</pool>
+<pool>
+	<name>Spaldingsgatan</name>
+	<lat>57.6888585617274</lat>
+	<lon>11.9831660027421</lon>
+</pool>
+<pool>
+	<name>Uddevallagatan</name>
+	<lat>57.7186468694904</lat>
+	<lon>12.0080532354737</lon>
+</pool>
+<pool>
+	<name>Vårvädersgatan</name>
+	<lat>57.7135506271178</lat>
+	<lon>11.8864143766792</lon>
+</pool>
+<pool>
+	<name>Amiralitetsgatan</name>
+	<lat>57.695367665667</lat>
+	<lon>11.9292371517133</lon>
+</pool>
+<pool>
+	<name>Bangatan</name>
+	<lat>57.69695818871494</lat>
+	<lon>11.93464994430542</lon>
+</pool>
+<pool>
+	<name>Birger Jarlsgatan</name>
+	<lat>57.6852783759424</lat>
+	<lon>11.9226305830923</lon>
+</pool>
+<pool>
+	<name>Djurgårdsgatan</name>
+	<lat>57.6938128094266</lat>
+	<lon>11.9359830225882</lon>
+</pool>
+<pool>
+	<name>Frigångsgatan</name>
+	<lat>57.697266425821</lat>
+	<lon>11.9525345315279</lon>
+</pool>
+<pool>
+	<name>Godhemsgatan</name>
+	<lat>57.688419493561</lat>
+	<lon>11.9283356365786</lon>
+</pool>
+<pool>
+	<name>Kennedygatan</name>
+	<lat>57.68421619982176</lat>
+	<lon>11.917891502380371</lon>
+</pool>
+<pool>
+	<name>Marklandsgatan</name>
+	<lat>57.67267458330995</lat>
+	<lon>11.935830116271972</lon>
+</pool>
+<pool>
+	<name>Ostindiegatan</name>
+	<lat>57.6885368464184</lat>
+	<lon>11.9169447565345</lon>
+</pool>
+<pool>
+	<name>Paternostergatan</name>
+	<lat>57.6896489966352</lat>
+	<lon>11.9306208079248</lon>
+</pool>
+<pool>
+	<name>Peter Bagges gata</name>
+	<lat>57.6872416698952</lat>
+	<lon>11.9198358965369</lon>
+</pool>
+<pool>
+	<name>Seglaregatan</name>
+	<lat>57.6907999164842</lat>
+	<lon>11.9198068408013</lon>
+</pool>
+<pool>
+	<name>Signalgatan</name>
+	<lat>57.6959362255004</lat>
+	<lon>11.9378208749322</lon>
+</pool>
+<pool>
+	<name>Sofiebergsgatan</name>
+	<lat>57.694938347156</lat>
+	<lon>11.945161721776</lon>
+</pool>
+<pool>
+	<name>Stenklevsgatan</name>
+	<lat>57.69366703306616</lat>
+	<lon>11.934607028961181</lon>
+</pool>
+<pool>
+	<name>Strandridaregatan</name>
+	<lat>57.68561562913497</lat>
+	<lon>11.917977333068847</lon>
+</pool>
+<pool>
+	<name>Vingagatan</name>
+	<lat>57.6918149098341</lat>
+	<lon>11.928083896636963</lon>
+</pool>
+<pool>
+	<name>Häradsgatan 1</name>
+	<lat>57.658001</lat>
+	<lon>12.009666</lon>
+</pool>
+<pool>
+	<name>Knarrhögsgatan, bakom Stadshuset</name>
+	<lat>57.657502</lat>
+	<lon>12.012305</lon>
+</pool>
+<pool>
+	<name>Sahlins Terrass, Nedanför Fässbergs Kyrka</name>
+	<lat>57.655654</lat>
+	<lon>12.011125</lon>
+</pool>
+<pool>
+	<name>Saltholmen</name>
+	<lat>57.66081363831309</lat>
+	<lon>11.841641664505004</lon>
+</pool>
+<pool>
+	<name>Centralstationen, Västra stationstorget</name>
+	<lat>55.705332</lat>
+	<lon>13.185442</lon>
+</pool>
+<pool>
+	<name>Flygelvägen</name>
+	<lat>55.7128045933736</lat>
+	<lon>13.2369744876856</lon>
+</pool>
+<pool>
+	<name>Gässlingavägen</name>
+	<lat>55.7137846430733</lat>
+	<lon>13.1646194825347</lon>
+</pool>
+<pool>
+	<name>Gasverksgatan 3</name>
+	<lat>55.7030243451957</lat>
+	<lon>13.1866039754578</lon>
+</pool>
+<pool>
+	<name>Gunnesbo tågstation</name>
+	<lat>55.7277294648914</lat>
+	<lon>13.1671165405236</lon>
+</pool>
+<pool>
+	<name>Hildur Sandbergs gata</name>
+	<lat>55.7034661598879</lat>
+	<lon>13.1602878360373</lon>
+</pool>
+<pool>
+	<name>Ideon Betareceptionen, Scheelevägen 17</name>
+	<lat>55.714683</lat>
+	<lon>13.217003</lon>
+</pool>
+<pool>
+	<name>Lilla tvärgatan</name>
+	<lat>55.7008711597995</lat>
+	<lon>13.1947671512948</lon>
+</pool>
+<pool>
+	<name>Skarpskyttevägen</name>
+	<lat>55.7212180754754</lat>
+	<lon>13.1996330333213</lon>
+</pool>
+<pool>
+	<name>Sunnanvägen</name>
+	<lat>55.690338421187</lat>
+	<lon>13.1786723632416</lon>
+</pool>
+<pool>
+	<name>Tullgatan</name>
+	<lat>55.6952688814658</lat>
+	<lon>13.1928659652481</lon>
+</pool>
+<pool>
+	<name>Vårvädersvägen</name>
+	<lat>55.6914948968487</lat>
+	<lon>13.1722637310652</lon>
+</pool>
+<pool>
+	<name>Västra stationstorget</name>
+	<lat>55.7050880121337</lat>
+	<lon>13.1873091960681</lon>
+</pool>
+</pools>
