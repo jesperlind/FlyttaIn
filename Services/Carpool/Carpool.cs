@@ -16,14 +16,14 @@ namespace FlyttaIn.Services.Carpool
         XmlNodeList nodeList;
             XmlNode root = doc.DocumentElement;
         
-            float maxDistance = 0.0f;
+            double maxDistance = 0.0f;
 
-        string name;
+        string name = "";
 
             foreach(XmlNode pool in root.ChildNodes)
             {
         var poolList = pool.Cast<XmlNode>().ToList();
-        var poolName = poolList.Where(x => x.Name == "name").Single();
+        var poolName = poolList.Where(x => x.Name == "name").Single().Value;
         var poolLat = Convert.ToDouble(poolList.Where(x => x.Name == "lat").Single().Value);
         var poolLon = Convert.ToDouble(poolList.Where(x => x.Name == "lon").Single().Value);
 
@@ -32,10 +32,10 @@ namespace FlyttaIn.Services.Carpool
 
                 double R = 6371;
  
-                double dLat = this.toRadian(poolLat - lat);
-                double dLon = this.toRadian(poolLon - lon);
+                double dLat = (Math.PI / 180) * (poolLat - lat);
+                double dLon =  (Math.PI / 180) * (poolLon - lon);
  
-                double a = Math.Sin(dLat / 2) * Math.Sin(dLat / 2) + Math.Cos(this.toRadian(pos1.Latitude)) *Math.Cos(this.toRadian(pos2.Latitude)) * Math.Sin(dLon / 2) * Math.Sin(dLon / 2);
+                double a = Math.Sin(dLat / 2) * Math.Sin(dLat / 2) + Math.Cos( (Math.PI / 180) * (poolLat)) *Math.Cos( (Math.PI / 180) * (lat)) * Math.Sin(dLon / 2) * Math.Sin(dLon / 2);
                 double c = 2 * Math.Asin(Math.Min(1, Math.Sqrt(a)));
                 double d = R * c;
 
@@ -50,7 +50,7 @@ namespace FlyttaIn.Services.Carpool
         dict.Add("distance", maxDistance.ToString());
         dict.Add("name", name);
 
-        return d;
+        return dict;
     }
     }
 }

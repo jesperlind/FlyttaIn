@@ -2,7 +2,7 @@
     ViewBag.Title = "Flytta In";
 }
 
-<div id="query">
+@*<div id="query">
     <form>
         <input type="text" name="query" />
         <input type="submit" />
@@ -16,5 +16,86 @@
     <li id="environment">
         Luft och Milj&ouml;
     </li>
-    <!-- För varje sektion, jobb, dagis, skola  -->
-</ul>
+</ul>*@
+
+
+<div id="main" role="main">
+    <form id="start-form" action="post" url="/">
+        <fieldset>
+        <div id="start-address">
+            <div class="text">
+                <label for="address-1">Hit vill jag flytta</label>
+                <input type="text" placeholder="Skriv in adress.." id="address-1" name="address-1" />
+            </div>
+        </div>
+        </fieldset>
+        <fieldset>
+        <div id="to-address">
+            <div class="text">
+                <label for="address-2">Hit reser jag mest</label>
+                <input type="text" placeholder="Skriv in adress.." id="address-2" name="address-2" />
+                <span class="input-help">Ex. jobbet, en vän/släkting, gymmet mm.</span>
+            </div>
+            <div class="select">
+                <label for="category-2">Kategori</label>
+                <select id="category-2" name="category-2">
+                    <option value="">Mitt jobb</option>
+                    <option value="">Dagis</option>
+                    <option value="">Släkting</option>
+                    <option value="">Gymmet</option>
+                </select>
+            </div>
+            <a href="#" class="add">Lägg till fler platser</a>
+        </div>
+        
+        <input type="submit" id="submit-1" value="Hitta information"  />
+        </fieldset>
+    </form>
+    <div class="tabs">
+        <div class="tab-navigation">
+            <ul>
+                <li class="summary">Översikt</li>
+                <li class="transportation">Kommunikationer</li>
+                <li class="environment">Luft &amp; miljö</li>
+                <li class="accessibility">Tillgänglighet</li>
+                <li class="service">Samhällsservice</li>
+            </ul>
+        </div>
+        <div id="summary">
+            <h2 class="visuallyhidden">Översikt</h2>
+            <div class="transportation-summary">
+                <h3>Kommunikationer</h3>
+                    
+            </div>
+            <div class="environment-summary">
+                <h3>Luft &amp; miljö</h3>
+                    
+            </div>
+            <div class="accessibility-summary">
+                <h3>Tillgänglighet</h3>
+                    
+            </div>
+            <div class="service-summary">
+                <h3>Samhällsservice</h3>
+                    
+            </div>	
+        </div>
+        <div id="transportation">
+            <h2 class="visuallyhidden">Kommunikation</h2>
+            <a href="#" class="link-to-map">Visa som karta</a>
+        </div>
+        <div id="environment">
+            <h2 class="visuallyhidden">Luft &amp; miljö</h2>
+            <a href="#" class="link-to-map">Visa som karta</a>
+        </div>
+        <div id="accessibility">
+            <h2 class="visuallyhidden">Tillgänglighet</h2>
+            <a href="#" class="link-to-map">Visa som karta</a>
+        </div>
+        <div id="service">
+            <h2 class="visuallyhidden">Samhällsservice</h2>
+            <a href="#" class="link-to-map">Visa som karta</a>
+        </div>		
+    </div>		
+</div>
+
