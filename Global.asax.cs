@@ -31,10 +31,19 @@ namespace FlyttaIn
 
         protected void Application_Start()
         {
+            ViewEngines.Engines.Clear();
+            ViewEngines.Engines.Add(new RazorViewEngine());
+
             AreaRegistration.RegisterAllAreas();
 
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
+
+            #region Json mvc 3
+
+            ValueProviderFactories.Factories.Add(new JsonValueProviderFactory());
+
+            #endregion
         }
     }
 }
