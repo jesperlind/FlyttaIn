@@ -47,3 +47,7 @@ obj/
 [Dd]ebug*/
 [Rr]elease*/
 _Resharper*/
+
+# Connections #
+######################
+UltraSecretConnectionStrings.config
