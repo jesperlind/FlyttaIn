@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Newtonsoft.Json.Linq;
 
 namespace FlyttaIn.Services
 {
@@ -53,6 +54,41 @@ namespace FlyttaIn.Services
         {
             UrlEncoded,
             Json
+        }
+
+        /// <summary>
+        /// 
+        /*
+         * StopLocation":[{
+            "name":"Nordstan, Göteborg",
+            "lon":"11.970791",
+            "lat":"57.709245",
+            "id":"9021014004945000"
+            },{
+            "name":"Nordskagen, Götene",
+            "lon":"13.431475",
+            "lat":"58.594953",
+            "id":"9021014034152000"
+            },  etc..
+         * */
+        /// </summary>
+        /// <param name="url"></param>
+        /// <param name="api"></param>
+        /// <param name="location"></param>
+        /// <returns></returns>
+        public static IList<JToken> GetGBGLocationToCoord(string url, string api, string location)
+        {
+            string newUrl = string.Format(url, api, location);
+            var res = CreateHttpGet(newUrl, ContentType.Json);
+            res = res.Replace("processJSON(", "");
+            res = res.Replace(");", "");
+            
+            JObject googleSearch = JObject.Parse(res);
+
+            // get JSON result objects into a list
+            IList<JToken> results = googleSearch["LocationList"]["StopLocation"].Children().ToList();
+
+            return results;
         }
     }
 }
